@@ -10,5 +10,10 @@
 联系Email: xiuyuansoftware@xiuyuansoftware.com
 
 # 支付
-支持门罗币支付：地址 ： 43CosghWGHgEDsCoJJyNti6jjs8HNWoBSfdVpiqhSjerSjsS8vxSquKaY6VAr2MoALdL3G8cq7KYbNaHHtJuqZ4BVBU3pwF
+
+支持门罗币支付：
+
+地址 ： 43CosghWGHgEDsCoJJyNti6jjs8HNWoBSfdVpiqhSjerSjsS8vxSquKaY6VAr2MoALdL3G8cq7KYbNaHHtJuqZ4BVBU3pwF
+
+
 详情请邮箱咨询。
